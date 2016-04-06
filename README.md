@@ -1,3 +1,3 @@
 # MyCodes
 
-This codes are codes are for testing purposes.
+This codes are for testing purposes.
